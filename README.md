@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF2_51220023_ESTRATEGIA_EMAIL_MARKETING/#/](https://ecored-bogota-dc.github.io/CF2_51220023_ESTRATEGIA_EMAIL_MARKETING/#/)
 
 #
 
