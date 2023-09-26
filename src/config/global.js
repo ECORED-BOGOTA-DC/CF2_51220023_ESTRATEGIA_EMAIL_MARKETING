@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Email Marketing Estratégico',
+    descripcionCurso:
+      'Es este componente formativo, el aprendiz adquirirá los conocimientos del plan estratégico de la pyme, el CRM y la relación con el cliente, el comercio electrónico, el marco legal, la creación y gestión de contenidos digitales, el email marketing y las plataformas de mailing, para finalmente realizar analítica web y reporte de métricas.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -11,7 +12,19 @@ export default {
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
       },
     ],
   },
@@ -31,28 +44,113 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'El plan estratégico para pyme',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Concepto del plan estratégico',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Las pymes y la planificación estratégica',
+            hash: 't_1_2',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'El CRM y la relación con el cliente',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'El Comercio electrónico y el marco legal',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto de comercio electrónico',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Tipos de comercio electrónico',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Marco legal del comercio electrónico',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Creación y gestión de contenidos digitales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto de contenido digital',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Tipos de contenidos digitales para el marketing',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'El email marketing y las plataformas de mailing',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Concepto de email marketing',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Plataformas para el email marketing',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Planificación del email marketing',
+            hash: 't_5_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Analítica web y reportes de métricas',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Concepto de analítica',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Indicadores y KPI’s',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Reportes de métricas',
+            hash: 't_6_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,32 +200,132 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '3. El comercio electrónico y el marco legal',
+      referencia:
+        'Tapscott, D, Lowy, A. Ticoll, D. (1.999). <em>La Era De Los Negocios Electrónicos: Cómo Generar Utilidades En La Economía Digital</em>. Bogotá: McGraw-Hill, Print.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000003420',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '5. El email marketing y las plataformas de mailing',
+      referencia:
+        'Moro, M. (2.014). <em>Marketing Digital</em>. Madrid: Ediciones Paraninfo. Print.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000080197',
+    },
+    {
+      tema: '5.3. Planificación del email marketing',
+      referencia:
+        'Vila, N. Küster, I. (2.002). <em>Oportunidades y Amenazas Del E-mail Márketing<7em>. Barcelona]: Ediciones Deusto - Planeta De Agostini Profesional y Formación S.L. Web.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB14834',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Comercio electrónico',
+      significado:
+        'hace referencia a la distribución, venta, compra, marketing y suministro de información de productos o servicios a través de internet.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'CRM',
+      significado:
+        'software de gestión de la relación con los clientes (Customer Relationship Management). Es una poderosa herramienta que ayuda a las empresas a organizar y gestionar la relación con sus clientes desde una plataforma centralizada y fácil de usar.',
+    },
+    {
+      termino: 'Email marketing',
+      significado:
+        'as empresas pueden recurrir al marketing por email para comunicarse de forma periódica con su audiencia. Se publicita el contenido o los eventos, se ofrece descuentos o dirigir a los clientes a ubicaciones concretas, como al sitio web o a las publicaciones del blog.',
+    },
+    {
+      termino: 'Entorno Digital',
+      significado:
+        'representa la mejora de experiencia de los clientes y el aumento de sus competencias para dar soporte a su núcleo productivo, cubriendo con agilidad las necesidades cambiantes exigidas por los mercados en un ecosistema volátil, incierto, complejo y ambiguo.',
+    },
+    {
+      termino: 'Negocios electrónicos',
+      significado:
+        'los E-business están basados en la integración de las TIC’s (Tecnologías de la Información y Comunicación) con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.',
+    },
+    {
+      termino: 'Plan estratégico',
+      significado:
+        'proceso de proyección en un intervalo de tiempo de actividades por día, semana o mes de una empresa u organización, y debe disponer de un mecanismo que le permita lograr los objetivos establecidos de una manera eficiente y estructurada, esperando obtener los resultados proyectados.',
+    },
+    {
+      termino: 'Social media',
+      significado:
+        'plataformas donde comunidades y personas pueden interactuar y socializar diversos temas, con la finalidad de compartir noticias, gustos, intereses, ideas, tendencias, etc, donde el contenido digital es generado por todos los participantes y no por un único creador como en los medios tradicionales.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Edraw. (2.022). <em>Beneficios de la comunicación visual</em>.',
+      link:
+        'https://www.edrawsoft.com/es/benefits-of-visual-communication.html',
+    },
+    {
+      referencia: 'Fondeopyme (2.022). <em>CRM</em>.',
+      link: 'https://fondeopyme.com/crm.php',
+    },
+    {
+      referencia: 'Gadmin. (2.022). <em>Ciclos de email marketing</em>.',
+      link:
+        'https://venderloteriaporinternet.gadmin.es/disena-campana-email-marketing/',
+    },
+    {
+      referencia:
+        'Herrera, H. H. (2.012). Las redes sociales: <em>una nueva herramienta de difusión</em>. Revista reflexiones, 91(2).',
+      link: 'https://concepto.de/redes-sociales/#ixzz7TPxAMgyc',
+    },
+    {
+      referencia: 'Iebschool (2.022). <em>Que es SEO</em>.',
+      link:
+        'https://www.iebschool.com/blog/que-es-seo-social-y-como-puede-ayudar-a-mi-estrategia-de-seo-sem/',
+    },
+    {
+      referencia: 'IFICORP (2.022). <em>CRM</em>.',
+      link:
+        'http://www.ificorp.net/web/index.php/impuestos/52-clientes-cartera/790-que-es-un-crm-software-y-para-que-sirve-crm-significado-y-aplicaciones',
+    },
+    {
+      referencia: 'JuanCMejia (2.020). <em>Indicadores de redes sociales</em>.',
+      link:
+        'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
+    },
+    {
+      referencia:
+        'Kapeí. (2.022). <em>¿Qué es el Embudo de Conversión y por qué es importante para el Marketing Digital?</em>',
+      link: 'https://kapei.pe/marketing-digital/que-es-embudo-de-conversion/',
+    },
+    {
+      referencia:
+        'Moro, V. (2.014). <em>Marketing Digital</em>. Madrid: Ediciones Paraninfo, 2014. Print.',
       link: '',
+    },
+    {
+      referencia: 'Pinterest (2.022). <em>Analítica web</em>.',
+      link: 'https://co.pinterest.com/pin/772226667329553158/',
+    },
+    {
+      referencia:
+        'Serrano, J. (2.015). <em>SEO</em>. Barcelona: Editorial UOC. Web',
+      link: '',
+    },
+    {
+      referencia:
+        'Top position. (2.022). <em>Plan estratégico en redes sociales</em>.',
+      link: 'https://t-position.com/plan-estrategico-en-redes-sociales/',
+    },
+    {
+      referencia:
+        'Wix. (2.022). <em>App externa: Social Media Stream de SmartFox</em>.',
+      link:
+        'https://support.wix.com/es/article/app-externa-social-media-stream-de-smartfox',
     },
   ],
   creditos: [
@@ -151,10 +349,41 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Margarita Rosa Triana Sánchez',
+          cargo: 'Experto temático',
+          centro:
+            'Región Norte de Santander - Centro de la industria, la empresa y los servicios',
+        },
+        {
+          nombre: 'Claudia Milena Hernández Naranjo',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital – Centro Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: '',
+          cargo: '',
+          centro: '',
+        },
+        {
+          nombre: '',
+          cargo: '',
+          centro: '',
         },
       ],
     },
@@ -162,26 +391,32 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: '',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollador Fullstack',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: '',
+          cargo: 'Animación y Producción audiovisual',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: '',
+          cargo: 'Animación y Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: '',
+          cargo: 'Animación y Producción audiovisual',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
