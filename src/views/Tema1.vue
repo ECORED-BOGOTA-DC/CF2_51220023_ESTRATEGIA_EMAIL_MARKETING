@@ -47,10 +47,108 @@
       h4.mb-0.pe-4.ps-3 Etapas del plan estratégico
     
     p(data-aos="fade-left") El plan estratégico está compuesto por la planificación, organización, dirección y control, y éstos están organizados en 2 fases:
+
+    .row.mt-5
+      .col-lg.mb-4.mb-lg-0(data-aos="fade-right" @mouseover="mostrarIndicador = false")
+        .p-4(style="background-color:#B2E5FF;overflow: hidden;")
+          figure.col-lg-12.col-md-7.col-8.m-auto
+            img(src="@/assets/curso/tema1/3.png")
+          .cont_hide
+            h5.mt-4.mb-0.indicador__container.title_hide(style="cursor:pointer;") Fase mecánica &nbsp; #[i.fas.fa-chevron-up] #[i.fas.fa-chevron-down(style="opacity:0;")] #[.indicador--click(v-if="mostrarIndicador")]
+            .cont_data
+              p.mt-3 Es la parte estática del plan y está conformada por:
+              p.mt-4 #[strong Planeación:] consiste en que la organización determine que se va a hacer de forma anticipada para lograr los objetivos propuestos de manera eficiente.
+              p.mb-0.mt-4 #[strong Organización:] consiste en que la organización identifique cómo hacer que los recursos se utilicen de forma equilibrada, manteniendo una relación entre el trabajo y el personal que lo va a realizar o ejecutar.
+      .col-lg.mb-4.mb-lg-0(data-aos="fade-left" @mouseover="mostrarIndicador = false")
+        .p-4(style="background-color:#B2CAF4;overflow: hidden;")
+          figure.col-lg-12.col-md-7.col-8.m-auto
+            img(src="@/assets/curso/tema1/4.png")
+          .cont_hide
+            h5.mt-4.mb-0.title_hide(style="cursor:pointer;") Fase dinámica &nbsp; #[i.fas.fa-chevron-up] #[i.fas.fa-chevron-down(style="opacity:0;")]
+            .cont_data
+              p.mt-3 En esta hace referencia al movimiento y está conformada por:
+              p.mt-4 #[strong Dirección:] consiste en que la organización verifique que se hagan las actividades o tareas propuestas para el logro de los objetivos, mediante el liderazgo, la motivación y la comunicación de los involucrados.
+              p.mb-0.mt-4 #[strong Control:] consiste en que la organización logre tener el seguimiento y verificación de las anteriores etapas, de manera continua. 
     
+    Separador
 
-  
+    .titulo-segundo(data-aos="zoom-in-right")
+      h2#t_1_2 1.2 Las pymes y la planificación estratégica
+    
+    .row
+      .col-lg-3.col-md-5.mb-4.mb-md-0(data-aos="fade-right" style="place-self:center;")
+        figure.col-7.m-auto.col-md-12
+          img(src="@/assets/curso/tema1/5.svg")
+      .col-lg-9.col-md-6(data-aos="fade-left" style="place-self:center;")
+        p Para las pequeñas y medianas empresas, la planificación estratégica, consiste en tener un orden cronológico de las actividades a realizar, sin necesidad de implementar grandes sistemas o aplicativos para tal fin, es importante que los responsables de las actividades y tareas tengan claridad de estas, con sus responsabilidades y alcances para que sean acordes a los resultados que se obtienen. 
+    
+    p.mt-5(data-aos="fade-right") Existen cuatro tipos de planificación organizacional:
+    
+    TabsA.color-acento-contenido.mt-5(data-aos="zoom-in")
+      .tarjeta.color-acento-botones.p-4(titulo="Planificación organizacional <br> estratégica" style="background-color:#EFFBE1;")
+        .row
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
+            p Consiste en desarrollar un plan de atención general para todas las áreas de una empresa. La formulación de objetivos se realiza en base a un periodo de tiempo y procura que dichos objetivos están adaptados con los valores empresariales, además de la visión y la misión.
+            p.mt-3.mb-0 Generalmente, este tipo de planificación organizacional es hecha por altos ejecutivos o los líderes de la empresa.
+          .col-lg-4(style="place-self:center;")
+            figure.m-auto.col-8.col-lg-12.col-md-6
+              img(src="@/assets/curso/tema1/6.png")
+        .col-auto.mt-4
+          a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
+            span Planeación estratégica
+            .indicador--click(v-if="mostrarIndicador2")
+      .tarjeta.color-acento-botones.p-4(titulo="Planificación organizacional <br> táctica" style="background-color:#EFFBE1;")
+        .row
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
+            p Describe la manera en que una compañía va a aplicar su plan estratégico. Sin embargo, este es más específico y se establece por algunos objetivos a corto plazo que apoyan al plan estratégico, su duración de acción y ejecución es de aproximadamente entre un año o menos.
+            p.mt-3.mb-0 El plan táctico suele ser orientado por los gerentes de cada área que dan supervisión aquellos objetivos a corto plazo.
+          .col-lg-4(style="place-self:center;")
+            figure.m-auto.col-8.col-lg-12.col-md-6
+              img(src="@/assets/curso/tema1/9.png")
+        .col-auto.mt-4
+          a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
+            span Planeación Táctica
+            .indicador--click(v-if="mostrarIndicador3")
+      .tarjeta.color-acento-botones.p-4(titulo="Planificación organizacional <br> operacional" style="background-color:#EFFBE1;")
+        .row
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
+            p.mb-0 Es la visión y el control de los aspectos diarios en la planificación organizacional. Se conforma por labores que se realizan a diario como actividades de operación, normativa de trabajo, horarios, cumplimiento de políticas y estándares empresariales, así mismo de asegurar que las responsabilidades, funciones y tareas se lleven a cabo de manera eficaz.
+          .col-lg-4(style="place-self:center;")
+            figure.m-auto.col-8.col-lg-12.col-md-6
+              img(src="@/assets/curso/tema1/11.png")
+        .col-auto.mt-4
+          a.boton.color-acento-botones.indicador__container(@click="modal3 = true")
+            span Planeación operacional
+            .indicador--click(v-if="mostrarIndicador4")
+      .tarjeta.color-acento-botones.p-4(titulo="Planificación organizacional <br> de contingencia" style="background-color:#EFFBE1;")
+        .row
+          .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
+            p Se utiliza de forma esporádica, en especial cuando surgen imprevistos, crisis o escenarios inusuales. Es un plan estructurado y funcional que compone una serie de retos o desafíos en el cual, se debería proceder si una situación inesperada ocurre. 
+            p.mt-3.mb-0 A pesar de que las empresas consideren que es un plan que nunca van a utilizar, es esencial contar con este.
+          .col-lg-4(style="place-self:center;")
+            figure.m-auto.col-8.col-lg-12.col-md-6
+              img(src="@/assets/curso/tema1/13.png")
+        .col-auto.mt-4
+          a.boton.color-acento-botones.indicador__container(@click="modal4 = true")
+            span Planeación contingencia
+            .indicador--click(v-if="mostrarIndicador5")
 
+    ModalA(:abrir-modal.sync="modal1")
+      .row.align-items-center
+        figure
+          img(src="@/assets/curso/tema1/8.svg")
+    ModalA(:abrir-modal.sync="modal2")
+      .row.align-items-center
+        figure
+          img(src="@/assets/curso/tema1/10.svg")
+    ModalA(:abrir-modal.sync="modal3")
+      .row.align-items-center
+        figure
+          img(src="@/assets/curso/tema1/12.svg")
+    ModalA(:abrir-modal.sync="modal4")
+      .row.align-items-center
+        figure
+          img(src="@/assets/curso/tema1/14.svg")
 
 
 
@@ -63,7 +161,15 @@ export default {
   name: 'Tema1',
   components: {},
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
+    mostrarIndicador2: true,
+    modal1: false,
+    mostrarIndicador3: true,
+    modal2: false,
+    mostrarIndicador4: true,
+    modal3: false,
+    mostrarIndicador5: true,
+    modal4: false,
   }),
   mounted() {
     this.$nextTick(() => {
@@ -86,4 +192,18 @@ export default {
   left: -15%
   height: 50%
   top: 0
+.cont_data
+  opacity: 0
+  max-height: 0
+  overflow: hidden
+  transition: all .8s ease-in-out
+.cont_hide:hover i.fas.fa-chevron-up
+  opacity: 0 !important
+  visibility: hidden !important
+  position: absolute !important
+.cont_hide:hover i.fas.fa-chevron-down
+  opacity: 1 !important
+.cont_hide:hover .cont_data
+  opacity: 1 !important
+  max-height: 500px !important
 </style>
