@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Email Marketing Estratégico',
     descripcionCurso:
-      'Es este componente formativo, el aprendiz adquirirá los conocimientos del plan estratégico de la pyme, el CRM y la relación con el cliente, el comercio electrónico, el marco legal, la creación y gestión de contenidos digitales, el email marketing y las plataformas de mailing, para finalmente realizar analítica web y reporte de métricas.',
+      'Es este componente formativo, el aprendiz adquirirá los conocimientos del plan estratégico de la pyme, el CRM y la relación con el cliente, el comercio electrónico, el marco legal, la creación y gestión de contenidos digitales, el <em>email marketing</em> y las plataformas de mailing, para finalmente realizar analítica web y reporte de métricas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -101,7 +101,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Tipos de contenidos digitales para el marketing',
+            titulo: 'Tipos de contenidos digitales para el <em>marketing</em>',
             hash: 't_4_2',
           },
         ],
@@ -109,22 +109,22 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'El email marketing y las plataformas de mailing',
+        titulo: 'El <em>email marketing</em> y las plataformas de mailing',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Concepto de email marketing',
+            titulo: 'Concepto de <em>email marketing</em>',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Plataformas para el email marketing',
+            titulo: 'Plataformas para el <em>email marketing</em>',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Planificación del email marketing',
+            titulo: 'Planificación del <em>email marketing</em>',
             hash: 't_5_3',
           },
         ],
@@ -208,7 +208,7 @@ export default {
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000003420',
     },
     {
-      tema: '5. El email marketing y las plataformas de mailing',
+      tema: '5. El <em>email marketing</em> y las plataformas de mailing',
       referencia:
         'Moro, M. (2.014). <em>Marketing Digital</em>. Madrid: Ediciones Paraninfo. Print.',
       tipo: 'Libro',
@@ -216,7 +216,7 @@ export default {
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000080197',
     },
     {
-      tema: '5.3. Planificación del email marketing',
+      tema: '5.3. Planificación del <em>email marketing</em>',
       referencia:
         'Vila, N. Küster, I. (2.002). <em>Oportunidades y Amenazas Del E-mail Márketing<7em>. Barcelona]: Ediciones Deusto - Planeta De Agostini Profesional y Formación S.L. Web.',
       tipo: 'Libro',
@@ -228,7 +228,7 @@ export default {
     {
       termino: 'Comercio electrónico',
       significado:
-        'hace referencia a la distribución, venta, compra, marketing y suministro de información de productos o servicios a través de internet.',
+        'hace referencia a la distribución, venta, compra, <em>marketing</em> y suministro de información de productos o servicios a través de internet.',
     },
     {
       termino: 'CRM',
@@ -236,9 +236,9 @@ export default {
         'software de gestión de la relación con los clientes (Customer Relationship Management). Es una poderosa herramienta que ayuda a las empresas a organizar y gestionar la relación con sus clientes desde una plataforma centralizada y fácil de usar.',
     },
     {
-      termino: 'Email marketing',
+      termino: '<em>Email marketing<7em>',
       significado:
-        'as empresas pueden recurrir al marketing por email para comunicarse de forma periódica con su audiencia. Se publicita el contenido o los eventos, se ofrece descuentos o dirigir a los clientes a ubicaciones concretas, como al sitio web o a las publicaciones del blog.',
+        'as empresas pueden recurrir al <em>marketing</em> por email para comunicarse de forma periódica con su audiencia. Se publicita el contenido o los eventos, se ofrece descuentos o dirigir a los clientes a ubicaciones concretas, como al sitio web o a las publicaciones del blog.',
     },
     {
       termino: 'Entorno Digital',

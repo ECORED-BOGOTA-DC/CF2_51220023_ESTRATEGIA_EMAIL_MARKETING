@@ -12,7 +12,7 @@
         figure.m-auto.col-7.col-md-12
           img(src="@/assets/curso/tema3/1.png")
       .col-lg-8.col-md-6(data-aos="fade-left")
-        p La mayoría de las empresas ya están presentes en internet, por lo que además del marketing móvil, otro reto será disponer de plataformas de comercio electrónico para sus productos y servicios. Las empresas que no lo hagan aún, si quieren estar a la altura de las últimas realidades tecnológicas, deben adaptarse a este tipo de venta.
+        p La mayoría de las empresas ya están presentes en internet, por lo que además del #[em marketing] móvil, otro reto será disponer de plataformas de comercio electrónico para sus productos y servicios. Las empresas que no lo hagan aún, si quieren estar a la altura de las últimas realidades tecnológicas, deben adaptarse a este tipo de venta.
         p.mt-4 Son innumerables las ventajas que este tipo de venta ofrece a las empresas, porque no solo supone un ahorro de costes, sino que aumenta considerablemente el número de ventas. Sumadas ambas ventajas suponen un incremento en el volumen de ingresos de las compañías, sin embargo, se debe regir por el marco legal en la ley de habeas data y los derechos de autor del contenido que se pueda generar para promocionar los productos o servicios.
         p.mt-4 En el siguiente video, se explica el concepto y aplicación de la ley de habeas data:
         .col-xl-12.m-auto.mt-4
@@ -188,7 +188,7 @@
           img(src="@/assets/curso/tema3/16.svg")
       .col-lg-8(data-aos="fade-left")
         p La cantidad de datos que las entidades recolectan, traten y/o generen requieren, la implementación de una adecuada gestión de la información para asegurar la protección, almacenamiento y acceso de los datos. Para ello es importante que las entidades consideren el diseño e implementación de una arquitectura de almacenamiento de datos, que respalde la confidencialidad, integridad y disponibilidad de ellos.
-        p.mt-4 En el siguiente video, hay algunas recomendaciones a tener en cuenta en el marketing digital, en el ámbito del hábeas data:
+        p.mt-4 En el siguiente video, hay algunas recomendaciones a tener en cuenta en el #[em marketing] digital, en el ámbito del hábeas data:
         .col-xl-12.m-auto.mt-4
           .p-4(data-aos="flip-up" style="background: linear-gradient(180deg, rgba(0,169,255,1) 0%, rgba(0,80,219,1) 100%);border-radius:10px;")
             .row.m-0
