@@ -38,7 +38,7 @@
           img(src="@/assets/curso/tema5/2.svg" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p Es una acción o técnica de mercadeo directo que se apoya del envío de correos electrónicos de forma masiva para enviar un mensaje a una audiencia específica. Este envío de correos busca estimular las ventas o informar de novedades. Existen varias plataformas que prestan este servicio, entre las más populares están mailchimp y sendinblue.
-        p.mt-4 En el siguiente video se puede explica el concepto de mailchimp:
+        p.mt-4 En el siguiente video se explica el concepto de mailchimp:
     
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background: linear-gradient(180deg, rgba(0,169,255,1) 0%, rgba(0,80,219,1) 100%);border-radius:10px;")

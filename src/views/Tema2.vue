@@ -8,7 +8,7 @@
       h1 El CRM y la relación con el cliente
     
     p(data-aos="fade-right") El contacto con el cliente y el seguimiento siempre será primordial para cualquier empresa, por ello se hace necesaria la existencia de múltiples técnicas para la predicción de datos, que le permitan conocer situaciones o tendencias de los clientes. 
-    p.mt-4(data-aos="fade-left") A continuación, en el siguiente video se menciona el concepto de CRM no solo como un software o aplicativo sino como proceso:
+    p.mt-4(data-aos="fade-left") A continuación, en el siguiente video se menciona el concepto de CRM no solo como un #[em software] o aplicativo sino como proceso:
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background: linear-gradient(180deg, rgba(0,169,255,1) 0%, rgba(0,80,219,1) 100%);border-radius:10px;")
@@ -80,7 +80,7 @@
           img(src="@/assets/curso/tema2/5.svg" alt="Figura que relaciona los usos de los CRM, los cuales son: Rendimiento de vendedores. Meta de vendedores. Historial de conversaciones. Recordatorios. Priorización de cotizaciones. Lista unificada de contactos.")
       figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] IFICORP (2022)
 
-    p.mt-5(data-aos="fade-right") A continuación se presenta un paso a paso como ejemplo, para explicar la gestión de base de datos de clientes mediante el proceso CRM:
+    p.mt-5(data-aos="fade-right") A continuación, se presenta un paso a paso como ejemplo, para explicar la gestión de base de datos de clientes mediante el proceso CRM:
 
     .row.mt-5
       .col-lg-4.mb-lg-0.mb-4(data-aos="fade-right")

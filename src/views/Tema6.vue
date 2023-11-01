@@ -61,7 +61,7 @@
     .col-xl-8.col-lg-10.m-auto.mt-5(data-aos="zoom-in-up")
       figure
         img(src="@/assets/curso/tema6/5.svg" alt="Figura que representa los indicadores en RRSS; es decir, en las redes sociales. Dichos indicadores son: KPI Conversión y Resultado. KPI Interacción y Alcance. KPI Comunidad y Gestión. Lo que contiene cada KPI se indica debajo de la imagen.")
-      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] JuanCMejia (2.020) 
+      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] JuanCMejia (2020) 
 
     p.mt-5(data-aos="fade-right") De los KPI por conversión y resultado, es importante detallar cada uno como sigue:
 
@@ -72,7 +72,6 @@
     .col-xl-10.m-auto.mt-5.m-auto
       .tabla-a.color-acento-botones(data-aos="flip-up") 
         table
-          caption.fw-normal(style="background-color:#F6F6F6;") #[strong Nota,] Sena (2022).
           thead(style="border:0;")
             tr(style="background-color:#0050DB;")
               th.text-white.text-center KPI
@@ -117,7 +116,7 @@
         p Facebook, Instagram y TikTok son tres de las herramientas más populares donde se publican cada segundo innumerables piezas de contenidos digitales, en ellas se pueden apreciar las tendencias, calidad y creatividad. Es una “guerra” constante por captar la atención de millones de usuarios que se monetizan de acuerdo a la interacción o conversión que pueda tener con el contenido publicado.
         p.mt-4 Por otro lado, el orden en que son visualizados los resultados en el buscador es lo que determina el posicionamiento web, y en la actualidad es vital para tener éxito en la empresa. Cada segundo, miles de millones de usuarios digitan en los buscadores sus intereses, y son los buscadores que se basan en algoritmos especializados, los que ofrecen diferentes alternativas. Si la marca, el producto o la empresa no figura entre las primeras opciones, prácticamente será invisible para los usuarios, mientras que, el aparecer en las primeras posiciones traducirá en un aumento considerable de las visitas a la web y en el aumento de visibilidad que repercute en ventas, principal objetivo de las empresas.
         .cajon.mt-4.p-4.color-primario(style="background-color:#CCEEFF;")
-          p.mb-0 De este modo, para mejorar el posicionamiento web, con el objeto de mejorar la presencia en los buscadores, existen una serie de técnicas que optimizan el uso e incrementan la relevancia y visibilidad del sitio. Las técnicas tienen como objetivos principales obtener un incremento del tráfico a la web y, mejorar la visibilidad de ésta.
+          p.mb-0 De este modo, para mejorar el posicionamiento web, con el objeto de mejorar la presencia en los buscadores, existen una serie de técnicas que optimizan el uso e incrementan la relevancia y visibilidad del sitio. Las técnicas tienen como objetivos principales obtener un incremento del tráfico a la web y, mejorar la visibilidad de esta.
       .col-lg-4(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-6.col-lg-12
           img(src="@/assets/curso/tema6/7.png" alt="Imagen decorativa")
@@ -207,7 +206,7 @@
           .row
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Esta plataforma es fundamental en el momento de crear cualquier campaña publicitaria. Con la adquisición de Instagram y WhatsApp por medio del dueño y creador de Facebook, se han ido actualizando diversas funciones que hacen a esta plataforma muy apetecida por los empresarios.
-              p.mt-4 Al crear un #[em Fan Page] en Facebook, nos da la opción de integrar un botón de llamado a la acción y este botón puede configurarse para que con tan sólo un Click, nos lleve a la App de WhatsApp y generar una conversación más personalizada empresario-cliente, pero si lugar a dudas, lo más importante es la facilidad de crear una campaña publicitaria segmentado los clientes por edad, sexo, gustos y hasta nivel de escolaridad, con la opción del centro de anuncios.
+              p.mt-4 Al crear un #[em Fan Page] en Facebook, nos da la opción de integrar un botón de llamado a la acción y este botón puede configurarse para que con tan solo un Clic, nos lleve a la App de WhatsApp y generar una conversación más personalizada empresario-cliente, pero si lugar a dudas, lo más importante es la facilidad de crear una campaña publicitaria segmentado los clientes por edad, sexo, gustos y hasta nivel de escolaridad, con la opción del centro de anuncios.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema6/21.png' alt="Imagen decorativa")

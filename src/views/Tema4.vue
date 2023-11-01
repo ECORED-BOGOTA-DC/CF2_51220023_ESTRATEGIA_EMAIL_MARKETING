@@ -16,7 +16,6 @@
     .col-xl-10.m-auto.mt-5.m-auto
       .tabla-a.color-acento-botones(data-aos="flip-up") 
         table
-          caption.fw-normal(style="background-color:#F6F6F6;") #[strong Nota,] Sena (2022).
           thead(style="border:0;")
             tr(style="background-color:#0050DB;")
               th.text-white.text-center Objetivo
@@ -50,7 +49,7 @@
       h2#t_4_1 4.1 Concepto de contenido digital
     
     .cont_4_1.pt-5
-      p(data-aos="fade-right") Los contenidos digitales son piezas de información fundamentales en el Inbound Marketing, se pueden construir a través de videos, #[em reels], imágenes, texto, #[em gif], mapas conceptuales, entre otros; el éxito del impacto en su creación dependerá de la creatividad, y se transformará en clientes, ventas y visitantes al negocio, a continuación se profundiza sobre su aplicación y consideraciones:
+      p(data-aos="fade-right") Los contenidos digitales son piezas de información fundamentales en el Inbound Marketing, se pueden construir a través de videos, #[em reels], imágenes, texto, #[em gif], mapas conceptuales, entre otros; el éxito del impacto en su creación dependerá de la creatividad, y se transformará en clientes, ventas y visitantes al negocio, a continuación, se profundiza sobre su aplicación y consideraciones:
       figure.mt-5(data-aos="fade-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -66,7 +65,7 @@
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Blog")
-            p Es un sitio web personal donde se publica cualquier tema que se desee compartir. Éste se actualiza de manera periódica y recopila textos y artículos cronológicamente de uno o varios autores.
+            p Es un sitio web personal donde se publica cualquier tema que se desee compartir. Este se actualiza de manera periódica y recopila textos y artículos cronológicamente de uno o varios autores.
             figure.mt-3
               img(src="@/assets/curso/tema4/3.png" alt="Imagen decorativa")
           .row(titulo="<em>Landing page</em>")

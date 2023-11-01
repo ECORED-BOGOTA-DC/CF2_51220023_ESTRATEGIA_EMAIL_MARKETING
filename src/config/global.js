@@ -216,14 +216,6 @@ export default {
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000080197',
     },
-    {
-      tema: '5.3. Planificación del <em>email marketing</em>',
-      referencia:
-        'Vila, N. Küster, I. (2.002). <em>Oportunidades y Amenazas Del E-mail Márketing<7em>. Barcelona]: Ediciones Deusto - Planeta De Agostini Profesional y Formación S.L. Web.',
-      tipo: 'Libro',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB14834',
-    },
   ],
   glosario: [
     {
@@ -239,7 +231,7 @@ export default {
     {
       termino: '<em>Email marketing</em>',
       significado:
-        'as empresas pueden recurrir al <em>marketing</em> por email para comunicarse de forma periódica con su audiencia. Se publicita el contenido o los eventos, se ofrece descuentos o dirigir a los clientes a ubicaciones concretas, como al sitio web o a las publicaciones del blog.',
+        'las empresas pueden recurrir al <em>marketing</em> por email para comunicarse de forma periódica con su audiencia. Se publicita el contenido o los eventos, se ofrece descuentos o dirigir a los clientes a ubicaciones concretas, como al sitio web o a las publicaciones del blog.',
     },
     {
       termino: 'Entorno digital',
@@ -249,7 +241,7 @@ export default {
     {
       termino: 'Negocios electrónicos',
       significado:
-        'los E-business están basados en la integración de las TIC (Tecnologías de la Información y Comunicación) con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.',
+        'los <em>E-business</em> están basados en la integración de las TIC (Tecnologías de la Información y Comunicación) con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.',
     },
     {
       termino: 'Plan estratégico',
@@ -259,75 +251,78 @@ export default {
     {
       termino: '<em>Social media</em>',
       significado:
-        'plataformas donde comunidades y personas pueden interactuar y socializar diversos temas, con la finalidad de compartir noticias, gustos, intereses, ideas, tendencias, etc, donde el contenido digital es generado por todos los participantes y no por un único creador como en los medios tradicionales.',
+        'plataformas donde comunidades y personas pueden interactuar y socializar diversos temas, con la finalidad de compartir noticias, gustos, intereses, ideas, tendencias, etc. Donde el contenido digital es generado por todos los participantes y no por un único creador como en los medios tradicionales.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Edraw. (2022). <em>Beneficios de la comunicación visual</em>.',
-      link:
-        'https://www.edrawsoft.com/es/benefits-of-visual-communication.html',
+        'Agencia Kapei. (2022). <em>¿Qué es el Embudo de Conversión y por qué es importante para el “Marketing” Digital?</em>',
+      link: 'https://kapei.pe/marketing-digital/que-es-embudo-de-conversion/',
     },
     {
-      referencia: 'Fondeopyme (2022). <em>CRM</em>.',
-      link: 'https://fondeopyme.com/crm.php',
-    },
-    {
-      referencia: 'Gadmin. (2022). <em>Ciclos de email marketing</em>.',
-      link:
-        'https://venderloteriaporinternet.gadmin.es/disena-campana-email-marketing/',
-    },
-    {
-      referencia:
-        'Herrera, H. H. (2.012). Las redes sociales: <em>una nueva herramienta de difusión</em>. Revista reflexiones, 91(2).',
+      referencia: 'Concepto. (2012). <em>Redes sociales.</em>',
       link: 'https://concepto.de/redes-sociales/#ixzz7TPxAMgyc',
     },
     {
       referencia:
-        'Iebschool (2022). <em>Que es el SEO y cómo funciona para ser el n°1 en buscadores + [Guía SEO]</em>.',
+        'Edraw. (2022). <em>Beneficios de la comunicación visual.</em>',
+      link:
+        'https://www.edrawsoft.com/es/benefits-of-visual-communication.html ',
+    },
+    {
+      referencia: 'Fondeopyme (2022). <em>CRM.</em>',
+      link: 'https://fondeopyme.com/crm.php',
+    },
+    {
+      referencia:
+        'Gadmin. (2022). <em>Diseña tu propia campaña de email marketing.</em>',
+      link:
+        'https://venderloteriaporinternet.gadmin.es/disena-campana-email-marketing/ ',
+    },
+    {
+      referencia:
+        'Iebschool. (2022). <em>Qué es el SEO y cómo funciona para ser el nº1 en buscadores + [Guía SEO]</em>.',
       link:
         'https://www.iebschool.com/blog/que-es-seo-social-y-como-puede-ayudar-a-mi-estrategia-de-seo-sem/',
     },
     {
-      referencia: 'IFICORP (2022). <em>CRM</em>.',
+      referencia:
+        'IFICORP. (2022). <em>Qué es un CRM software y para qué sirve | CRM significado y aplicaciones.</em>',
       link:
         'http://www.ificorp.net/web/index.php/impuestos/52-clientes-cartera/790-que-es-un-crm-software-y-para-que-sirve-crm-significado-y-aplicaciones',
     },
     {
-      referencia: 'JuanCMejia (2.020). <em>Indicadores de redes sociales</em>.',
+      referencia:
+        'JuanCMejia. (2020). <em>Indicadores de redes sociales: principales KPIS y métricas de social media</em>.',
       link:
         'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
     },
     {
       referencia:
-        'Kapeí. (2022). <em>¿Qué es el Embudo de Conversión y por qué es importante para el Marketing Digital?</em>',
-      link: 'https://kapei.pe/marketing-digital/que-es-embudo-de-conversion/',
-    },
-    {
-      referencia:
-        'Moro, V. (2.014). <em>Marketing Digital</em>. Madrid: Ediciones Paraninfo, 2014. Print.',
-      link: '',
-    },
-    {
-      referencia: 'Pinterest (2022). <em>Analítica web</em>.',
-      link: 'https://co.pinterest.com/pin/772226667329553158/',
-    },
-    {
-      referencia:
-        'Serrano, J. (2.015). <em>SEO</em>. Barcelona: Editorial UOC. Web',
+        'Moro, V. (2014). <em>“Marketing” Digital</em>. Madrid: Ediciones Paraninfo, 2014. Print.',
       link: '',
     },
     {
       referencia:
-        'Top position. (2022). <em>Plan estratégico en redes sociales</em>.',
-      link: 'https://t-position.com/plan-estrategico-en-redes-sociales/',
+        'Pinterest. (2022). <em>Google Adsense permite ganar dinero con publicidad en tu web</em>.',
+      link: 'https://co.pinterest.com/pin/772226667329553158/ ',
     },
     {
       referencia:
-        'Wix. (2022). <em>App externa: Social Media Stream de SmartFox</em>.',
+        'Serrano, J. (2015). <em>SEO</em>. Barcelona: Editorial UOC. Web',
+      link: '',
+    },
+    {
+      referencia:
+        'Top position. (2022). <em>Plan estratégico en redes sociales</em>. ',
+      link: 'https://t-position.com/plan-estrategico-en-redes-sociales/ ',
+    },
+    {
+      referencia:
+        'Wix. (2022). <em>App externa: Social Media Stream de SmartFox</em>. ',
       link:
-        'https://support.wix.com/es/article/app-externa-social-media-stream-de-smartfox',
+        'https://support.wix.com/es/article/app-externa-social-media-stream-de-smartfox ',
     },
   ],
   creditos: [
@@ -354,7 +349,7 @@ export default {
           nombre: 'Margarita Rosa Triana Sánchez',
           cargo: 'Experto temático',
           centro:
-            'Región Norte de Santander - Centro de la industria, la empresa y los servicios',
+            'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
         },
         {
           nombre: 'Claudia Milena Hernández Naranjo',
