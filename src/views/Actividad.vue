@@ -10,8 +10,8 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Aplicación de #[em Email Marketing] como estrategia de mercadeo
-        p.mb-4 Repasar conceptos relacionados con #[em Email marketing] para la definición de acciones a ejecutar en el plan estratégico de una pyme.
+          h2 Aplicación de #[em email marketing] como estrategia de mercadeo
+        p.mb-4 Repasar conceptos relacionados con #[em email marketing] para la definición de acciones a ejecutar en el plan estratégico de una pyme.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

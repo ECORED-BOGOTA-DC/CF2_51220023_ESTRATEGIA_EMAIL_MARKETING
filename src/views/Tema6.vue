@@ -10,7 +10,7 @@
     .row
       .col-auto.d-none.d-md-block(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/tema6/1.svg")
+          img(src="@/assets/curso/tema6/1.svg" alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 Actualmente, las herramientas de medición y analítica permiten realizar soporte en investigaciones a niveles cualitativos y analizar información de archivos (desde imágenes, audios, documentos e incluso videos). Para que una estrategia de #[em marketing] sea eficiente y se logre obtener el mejor provecho de ella, es indispensable analizar el tráfico de personas a nuestras páginas.
     
@@ -20,13 +20,13 @@
     
     .col-xl-8.col-lg-10.m-auto.mt-5(data-aos="zoom-in-up")
       figure
-        img(src="@/assets/curso/tema6/2.svg")
-      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Pinterest (2.022)
+        img(src="@/assets/curso/tema6/2.svg" alt="Figura que ejemplifica la analítica web a través de un proceso, el cual muestra su rendimiento a través de datos medibles, como el performance y balance, entre otros aspectos.")
+      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Pinterest (2022)
     
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
         figure.m-auto.col-7.col-md-12
-          img(src="@/assets/curso/tema6/3.png")
+          img(src="@/assets/curso/tema6/3.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p  Las herramientas como Google Ads proporcionan informes altamente detallados de la evolución de una campaña, de manera que se logre saber qué está pasando con el anuncio en cualquier instante. Esta herramienta de creación y seguimiento de campañas SEM, se conecta con Google Analytics, la cual permite monitorear las visitas a las diferentes páginas o sitios web. Este monitoreo en tiempo real permite dar seguimiento continuo y actualizado de las campañas, y así, realizar cambios en cualquier momento para ajustar parámetros dependiendo de la trazabilidad y las conversiones que se logren.
     
@@ -52,7 +52,7 @@
         p.mt-4 Los indicadores se dividen en: KPI en Gestión y Comunidad, KPI en Interacción y Alcance y KPI en Conversión y Resultado. En los KPI en gestión y comunidad se encuentran los fans y seguidores, en los de interacción y alcance están los me gusta, comentarios, etc, y en los de conversión y resultado encontramos el ROI (Retorno a la inversión), el CPA (Costo por adquisición), entre otros.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-12
-          img(src="@/assets/curso/tema6/4.png")
+          img(src="@/assets/curso/tema6/4.png" alt="Imagen decorativa")
     
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Figura 6.
@@ -60,7 +60,7 @@
     
     .col-xl-8.col-lg-10.m-auto.mt-5(data-aos="zoom-in-up")
       figure
-        img(src="@/assets/curso/tema6/5.svg")
+        img(src="@/assets/curso/tema6/5.svg" alt="Figura que representa los indicadores en RRSS; es decir, en las redes sociales. Dichos indicadores son: KPI Conversión y Resultado. KPI Interacción y Alcance. KPI Comunidad y Gestión. Lo que contiene cada KPI se indica debajo de la imagen.")
       figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] JuanCMejia (2.020) 
 
     p.mt-5(data-aos="fade-right") De los KPI por conversión y resultado, es importante detallar cada uno como sigue:
@@ -72,7 +72,7 @@
     .col-xl-10.m-auto.mt-5.m-auto
       .tabla-a.color-acento-botones(data-aos="flip-up") 
         table
-          caption.fw-normal(style="background-color:#F6F6F6;") #[strong Nota,] Sena (2.022).
+          caption.fw-normal(style="background-color:#F6F6F6;") #[strong Nota,] Sena (2022).
           thead(style="border:0;")
             tr(style="background-color:#0050DB;")
               th.text-white.text-center KPI
@@ -81,7 +81,7 @@
           tbody
             tr
               td.p-4 CTR
-              td.p-4 #[em Click Through Rate]
+              td.p-4 Click Through Rate
               td.p-4 (Número de clics en los últimos 28 días / total impresiones en ese periodo) x 100
             tr
               td.p-4 %CNV
@@ -89,23 +89,23 @@
               td.p-4 (Número de conversión en el sitio web logradas por visitantes de redes sociales en los últimos 28 días / total visitantes al sitio web desde redes sociales en ese periodo) x100
             tr
               td.p-4 CLP
-              td.p-4 #[em Cost per Lead]
+              td.p-4 Cost per Lead
               td.p-4 (Costo de la campaña en redes sociales / total de clientes potenciales logrados por la campaña de redes sociales en ese periodo) x 100
             tr
               td.p-4 CPA
-              td.p-4 #[em Cost per Acquisition]
+              td.p-4 Cost per Acquisition
               td.p-4 (Costo de la campaña en redes sociales / total de compradores logrados por la campaña de redes sociales en ese periodo) x 100
             tr
               td.p-4 ROI
-              td.p-4 #[em Return Of Investment]
-              td.p-4 ((Beneficios de la campaña en redes sociales -Costo de la campaña en redes sociales) / Costo de la campaña en redes sociales) x 100
+              td.p-4 Return Of Investment
+              td.p-4 ((Beneficios de la campaña en redes sociales - Costo de la campaña en redes sociales) / Costo de la campaña en redes sociales) x 100
     
     .row.mt-5
       .col-auto.d-none.d-md-block(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/tema6/6.svg")
+          img(src="@/assets/curso/tema6/6.svg" alt="Imagen decorativa")
       .col(data-aos="fade-left")
-        p.mb-0 Con las fórmulas anteriores, se puede observar la forma a evaluar y saber que tan eficiente puede ser la campaña o el anuncio que está siendo publicado en los diferentes medios digitales. Sin embargo, es importante tener en cuenta el constante cambio en los algoritmos de las RRSS, blog, motores de búsqueda, etc, para el replanteamiento de la forma a calcular los KPI.
+        p.mb-0 Con las fórmulas anteriores, se puede observar la forma a evaluar y saber qué tan eficiente puede ser la campaña o el anuncio que está siendo publicado en los diferentes medios digitales. Sin embargo, es importante tener en cuenta el constante cambio en los algoritmos de las RRSS, blog, motores de búsqueda, etc, para el replanteamiento de la forma a calcular los KPI.
     
     Separador
 
@@ -114,13 +114,13 @@
   
     .row
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
-        p Facebook, Instagram y TikTok son tres de las herramientas más populares donde se publican cada segundo innumerables piezas de contenidos digitales, en ellos se pueden apreciar las tendencias, calidad y creatividad. Es una “Guerra” constante por captar la atención de millones de usuarios que se monetizan de acuerdo a la interacción o conversión que pueda tener con el contenido publicado.
+        p Facebook, Instagram y TikTok son tres de las herramientas más populares donde se publican cada segundo innumerables piezas de contenidos digitales, en ellas se pueden apreciar las tendencias, calidad y creatividad. Es una “guerra” constante por captar la atención de millones de usuarios que se monetizan de acuerdo a la interacción o conversión que pueda tener con el contenido publicado.
         p.mt-4 Por otro lado, el orden en que son visualizados los resultados en el buscador es lo que determina el posicionamiento web, y en la actualidad es vital para tener éxito en la empresa. Cada segundo, miles de millones de usuarios digitan en los buscadores sus intereses, y son los buscadores que se basan en algoritmos especializados, los que ofrecen diferentes alternativas. Si la marca, el producto o la empresa no figura entre las primeras opciones, prácticamente será invisible para los usuarios, mientras que, el aparecer en las primeras posiciones traducirá en un aumento considerable de las visitas a la web y en el aumento de visibilidad que repercute en ventas, principal objetivo de las empresas.
         .cajon.mt-4.p-4.color-primario(style="background-color:#CCEEFF;")
-          p.mb-0 De este modo, para mejorar el posicionamiento web, con el objeto de mejorar la presencia en los buscadores, existen una serie de técnicas que optimizan el uso e incrementa la relevancia y visibilidad del sitio. Las técnicas tienen como objetivos principales obtener un incremento del tráfico a la web y, mejorar la visibilidad de ésta.
+          p.mb-0 De este modo, para mejorar el posicionamiento web, con el objeto de mejorar la presencia en los buscadores, existen una serie de técnicas que optimizan el uso e incrementan la relevancia y visibilidad del sitio. Las técnicas tienen como objetivos principales obtener un incremento del tráfico a la web y, mejorar la visibilidad de ésta.
       .col-lg-4(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-6.col-lg-12
-          img(src="@/assets/curso/tema6/7.png")
+          img(src="@/assets/curso/tema6/7.png" alt="Imagen decorativa")
     
     br
     .mt-5.p-3.mb-5(style="max-width:fit-content;background-color:#94E435;border-radius:0px 60px 60px 0px;position:relative;" data-aos="fade-right")
@@ -134,10 +134,10 @@
       span SEO
     .col-xl-8.col-lg-10.m-auto.mt-5(data-aos="zoom-in-up")
       figure
-        img(src="@/assets/curso/tema6/8.svg")
-      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Iebschool (2.022)
+        img(src="@/assets/curso/tema6/8.svg" alt="Figura que representa el proceso SEO, el cual consta de on page y off page.")
+      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Iebschool (2022)
     
-    p.mt-5(data-aos="fade-right") Se refiere a todas aquellas acciones, estrategias y técnicas de optimización de posicionamiento que se hacen en un sitio web para aparecer orgánicamente (No pago) en los buscadores (Google, Yahoo, Bing). Con la estrategia SEO no se realiza ningún pago a las empresas dueñas de los motores de búsqueda, y se puede lograr incrementos significativos en el tráfico y la visibilidad de las marcas en Internet. Son los contenidos los que se ganan esos lugares por derecho propio.
+    p.mt-5(data-aos="fade-right") Se refiere a todas aquellas acciones, estrategias y técnicas de optimización de posicionamiento que se hacen en un sitio web para aparecer orgánicamente (no pago) en los buscadores (Google, Yahoo, Bing). Con la estrategia SEO no se realiza ningún pago a las empresas dueñas de los motores de búsqueda, y se puede lograr incrementos significativos en el tráfico y la visibilidad de las marcas en Internet. Son los contenidos los que se ganan esos lugares por derecho propio.
     p.mt-4(data-aos="fade-left") El SEO presenta características importantes que se deben tener en cuenta:
 
     .row.mt-5.justify-content-center
@@ -147,10 +147,10 @@
             .tarjeta-flip__img.p-4.pb-0.d-flex.align-content-end.flex-wrap
               h5.mt-4.text-center.w-100.mb-3(style="color:#12263F;") El SEO es medible
               figure.col-lg-5.m-auto.col-md-6.col-lg-8.col-12.col-xl-12
-                img(src="@/assets/curso/tema6/9.svg")
+                img(src="@/assets/curso/tema6/9.svg" alt="Imagen decorativa")
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#B2E5FF;")
               figure
-                img(src="@/assets/curso/tema6/10.svg" style="max-width:70px;")
+                img(src="@/assets/curso/tema6/10.svg" style="max-width:70px;" alt="Imagen decorativa")
               h5.mt-4(style="color:#12263F;") El SEO es medible
               p.mt-4(style="color:#12263F;") Lo cual implica poder conocer en todo momento cuáles son las palabras clave y expresiones que están consiguiendo posicionar nuestro sitio web en las primeras posiciones del buscador y cuáles transforman mejor una visita en una conversión.
       .col-lg-6.col-xl-4.mb-4.mb-xl-0.col-md-10
@@ -159,10 +159,10 @@
             .tarjeta-flip__img.p-4.pb-0.d-flex.align-content-end.flex-wrap
               h5.mt-4.text-center.w-100.mb-3(style="color:#12263F;") El SEO suele ser lento de conseguir
               figure.col-lg-5.m-auto.col-md-6.col-lg-8.col-12.col-xl-12
-                img(src="@/assets/curso/tema6/11.svg")
+                img(src="@/assets/curso/tema6/11.svg" alt="Imagen decorativa")
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#CCE4AF;")
               figure
-                img(src="@/assets/curso/tema6/12.svg" style="max-width:70px;")
+                img(src="@/assets/curso/tema6/12.svg" style="max-width:70px;" alt="Imagen decorativa")
               h5.mt-4(style="color:#12263F;") El SEO suele ser lento de conseguir
               p.mt-4(style="color:#12263F;") Por lo que es importante dedicarle tiempo y diseñar una buena campaña que reporte unos resultados acordes a los objetivos que pretende lograr la empresa.
       .col-lg-6.col-xl-4.mb-4.mb-xl-0.col-md-10
@@ -171,10 +171,10 @@
             .tarjeta-flip__img.p-4.pb-0.d-flex.align-content-end.flex-wrap
               h5.mt-4.text-center.w-100.mb-3.text-white El SEO es dinámico
               figure.col-lg-5.m-auto.col-md-6.col-lg-8.col-12.col-xl-12
-                img(src="@/assets/curso/tema6/13.svg")
+                img(src="@/assets/curso/tema6/13.svg" alt="Imagen decorativa")
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#9FB7E1;")
               figure
-                img(src="@/assets/curso/tema6/14.svg" style="max-width:70px;")
+                img(src="@/assets/curso/tema6/14.svg" style="max-width:70px;" alt="Imagen decorativa")
               h5.mt-4(style="color:#12263F;") El SEO es dinámico
               p.mt-4(style="color:#12263F;") Un día podemos estar en las primeras posiciones, pero al día siguiente descender nuestra visibilidad. Esto puede ser debido al incremento de la competencia, al uso inadecuado de las páginas de nuestras webs o incluso a cambios en los algoritmos de los buscadores. 
     
@@ -189,7 +189,7 @@
               p.mt-4 Las campañas SEM, son una forma rápida, económica y eficaz de hacer publicidad, conseguir clientes potenciales y generar ventas. Esta técnica es muy usada debido a que ofrece resultados inmediatos (la página de la empresa aparecerá en los buscadores de un día para otro, obteniendo visitas rápidamente).
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema6/18.png')
+                img(src='@/assets/curso/tema6/18.png' alt="Imagen que representa al SEM, lo cual incluye aspectos como: Buscadores, marketing, grupos target, contenidos, enlaces y ranking.")
           a.boton.color-acento-botones.indicador__container.mt-4.ps-5.pe-5(@click="modal1 = true")
             span.fw-bold SEM
             .indicador--click(v-if="mostrarIndicador")
@@ -197,11 +197,11 @@
         .col-xl-11.m-auto
           .row
             .col-md-6.col-lg-8.mb-4.mb-md-0
-              p El objetivo de toda empresa en la era actual es masificar su marca, producto o servicio. Gracias a las herramientas del #[em Marketing] Digital esta labor puede ser un poco más fácil debido al alcance y penetración en la audiencia. La cantidad de Me Gusta o Me Encanta en la #[em Fan Page] de Facebook, o los suscriptores en Twitter, o los seguidores en Instagram cobran importancia porque indica la aceptación de la empresa u oferta que es presentada.
+              p El objetivo de toda empresa en la era actual es masificar su marca, producto o servicio. Gracias a las herramientas del #[em marketing] digital esta labor puede ser un poco más fácil debido al alcance y penetración en la audiencia. La cantidad de Me Gusta o Me Encanta en la Fan Page de Facebook, o los suscriptores en Twitter, o los seguidores en Instagram cobran importancia porque indica la aceptación de la empresa u oferta que es presentada.
               p.mt-4 En la actualidad, existen plataformas que ayudan a las empresas a masificarse, conseguir clientes y, por consiguiente, aumentar sus ventas, siempre teniendo en cuenta los reportes estadísticos que generan estas plataformas con el propósito de ir mejorando la segmentación del público objetivo.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema6/20.png')
+                img(src='@/assets/curso/tema6/20.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Segmentación del público objetivo" :icono="require('@/assets/curso/tema6/17.svg')")
         .col-xl-11.m-auto
           .row
@@ -210,11 +210,11 @@
               p.mt-4 Al crear un #[em Fan Page] en Facebook, nos da la opción de integrar un botón de llamado a la acción y este botón puede configurarse para que con tan sólo un Click, nos lleve a la App de WhatsApp y generar una conversación más personalizada empresario-cliente, pero si lugar a dudas, lo más importante es la facilidad de crear una campaña publicitaria segmentado los clientes por edad, sexo, gustos y hasta nivel de escolaridad, con la opción del centro de anuncios.
             .col-md-6.col-lg-4
               figure
-                img(src='@/assets/curso/tema6/21.png')
+                img(src='@/assets/curso/tema6/21.png' alt="Imagen decorativa")
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center
         figure
-          img(src="@/assets/curso/tema6/19.svg")
+          img(src="@/assets/curso/tema6/19.svg" alt="Imagen decorativa")
   
 
 

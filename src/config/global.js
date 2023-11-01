@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Email Marketing Estratégico',
+    componenteFormativo: '<em>Email marketing</em> estratégico',
     descripcionCurso:
-      'Es este componente formativo, el aprendiz adquirirá los conocimientos del plan estratégico de la pyme, el CRM y la relación con el cliente, el comercio electrónico, el marco legal, la creación y gestión de contenidos digitales, el <em>email marketing</em> y las plataformas de mailing, para finalmente realizar analítica web y reporte de métricas.',
+      'Es este componente formativo, el aprendiz adquirirá los conocimientos del plan estratégico de la pyme, el CRM y la relación con el cliente, el comercio electrónico, el marco legal, la creación y gestión de contenidos digitales, el <em>email marketing</em> y las plataformas de <em>mailing</em>, para finalmente realizar analítica web y reporte de métricas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -109,7 +109,8 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'El <em>email marketing</em> y las plataformas de mailing',
+        titulo:
+          'El <em>email marketing</em> y las plataformas de <em>mailing</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -233,22 +234,22 @@ export default {
     {
       termino: 'CRM',
       significado:
-        'software de gestión de la relación con los clientes (Customer Relationship Management). Es una poderosa herramienta que ayuda a las empresas a organizar y gestionar la relación con sus clientes desde una plataforma centralizada y fácil de usar.',
+        '<em>software</em> de gestión de la relación con los clientes (Customer Relationship Management). Es una poderosa herramienta que ayuda a las empresas a organizar y gestionar la relación con sus clientes desde una plataforma centralizada y fácil de usar.',
     },
     {
-      termino: '<em>Email marketing<7em>',
+      termino: '<em>Email marketing</em>',
       significado:
         'as empresas pueden recurrir al <em>marketing</em> por email para comunicarse de forma periódica con su audiencia. Se publicita el contenido o los eventos, se ofrece descuentos o dirigir a los clientes a ubicaciones concretas, como al sitio web o a las publicaciones del blog.',
     },
     {
-      termino: 'Entorno Digital',
+      termino: 'Entorno digital',
       significado:
         'representa la mejora de experiencia de los clientes y el aumento de sus competencias para dar soporte a su núcleo productivo, cubriendo con agilidad las necesidades cambiantes exigidas por los mercados en un ecosistema volátil, incierto, complejo y ambiguo.',
     },
     {
       termino: 'Negocios electrónicos',
       significado:
-        'los E-business están basados en la integración de las TIC’s (Tecnologías de la Información y Comunicación) con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.',
+        'los E-business están basados en la integración de las TIC (Tecnologías de la Información y Comunicación) con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.',
     },
     {
       termino: 'Plan estratégico',
@@ -256,7 +257,7 @@ export default {
         'proceso de proyección en un intervalo de tiempo de actividades por día, semana o mes de una empresa u organización, y debe disponer de un mecanismo que le permita lograr los objetivos establecidos de una manera eficiente y estructurada, esperando obtener los resultados proyectados.',
     },
     {
-      termino: 'Social media',
+      termino: '<em>Social media</em>',
       significado:
         'plataformas donde comunidades y personas pueden interactuar y socializar diversos temas, con la finalidad de compartir noticias, gustos, intereses, ideas, tendencias, etc, donde el contenido digital es generado por todos los participantes y no por un único creador como en los medios tradicionales.',
     },
@@ -264,16 +265,16 @@ export default {
   referencias: [
     {
       referencia:
-        'Edraw. (2.022). <em>Beneficios de la comunicación visual</em>.',
+        'Edraw. (2022). <em>Beneficios de la comunicación visual</em>.',
       link:
         'https://www.edrawsoft.com/es/benefits-of-visual-communication.html',
     },
     {
-      referencia: 'Fondeopyme (2.022). <em>CRM</em>.',
+      referencia: 'Fondeopyme (2022). <em>CRM</em>.',
       link: 'https://fondeopyme.com/crm.php',
     },
     {
-      referencia: 'Gadmin. (2.022). <em>Ciclos de email marketing</em>.',
+      referencia: 'Gadmin. (2022). <em>Ciclos de email marketing</em>.',
       link:
         'https://venderloteriaporinternet.gadmin.es/disena-campana-email-marketing/',
     },
@@ -283,12 +284,13 @@ export default {
       link: 'https://concepto.de/redes-sociales/#ixzz7TPxAMgyc',
     },
     {
-      referencia: 'Iebschool (2.022). <em>Que es SEO</em>.',
+      referencia:
+        'Iebschool (2022). <em>Que es el SEO y cómo funciona para ser el n°1 en buscadores + [Guía SEO]</em>.',
       link:
         'https://www.iebschool.com/blog/que-es-seo-social-y-como-puede-ayudar-a-mi-estrategia-de-seo-sem/',
     },
     {
-      referencia: 'IFICORP (2.022). <em>CRM</em>.',
+      referencia: 'IFICORP (2022). <em>CRM</em>.',
       link:
         'http://www.ificorp.net/web/index.php/impuestos/52-clientes-cartera/790-que-es-un-crm-software-y-para-que-sirve-crm-significado-y-aplicaciones',
     },
@@ -299,7 +301,7 @@ export default {
     },
     {
       referencia:
-        'Kapeí. (2.022). <em>¿Qué es el Embudo de Conversión y por qué es importante para el Marketing Digital?</em>',
+        'Kapeí. (2022). <em>¿Qué es el Embudo de Conversión y por qué es importante para el Marketing Digital?</em>',
       link: 'https://kapei.pe/marketing-digital/que-es-embudo-de-conversion/',
     },
     {
@@ -308,7 +310,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Pinterest (2.022). <em>Analítica web</em>.',
+      referencia: 'Pinterest (2022). <em>Analítica web</em>.',
       link: 'https://co.pinterest.com/pin/772226667329553158/',
     },
     {
@@ -318,12 +320,12 @@ export default {
     },
     {
       referencia:
-        'Top position. (2.022). <em>Plan estratégico en redes sociales</em>.',
+        'Top position. (2022). <em>Plan estratégico en redes sociales</em>.',
       link: 'https://t-position.com/plan-estrategico-en-redes-sociales/',
     },
     {
       referencia:
-        'Wix. (2.022). <em>App externa: Social Media Stream de SmartFox</em>.',
+        'Wix. (2022). <em>App externa: Social Media Stream de SmartFox</em>.',
       link:
         'https://support.wix.com/es/article/app-externa-social-media-stream-de-smartfox',
     },
@@ -341,7 +343,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -379,7 +381,7 @@ export default {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodología para la formación virtual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -390,31 +392,31 @@ export default {
           nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseño web',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollo Fullstack',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -425,19 +427,19 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de contenidos educativos',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de contenidos educativos y vinculación al LMS',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 El #[em email marketing] y las plataformas de mailing
+      h1 El #[em email marketing] y las plataformas de #[em mailing]
     
     .row
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
         figure.m-auto.col-7.col-md-12
-          img(src="@/assets/curso/tema5/1.png")
+          img(src="@/assets/curso/tema5/1.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
-        p El envío de correos electrónicos en el momento oportuno puede reducir los posibles obstáculos que hayan surgido en el proceso de compra y animar a los clientes potenciales a comprar. Además, es necesario hacer un seguimiento del rendimiento de cada uno de los correos electrónicos para que la estrategia de email marketing siga evolucionando.
+        p El envío de correos electrónicos en el momento oportuno puede reducir los posibles obstáculos que hayan surgido en el proceso de compra y animar a los clientes potenciales a comprar. Además, es necesario hacer un seguimiento del rendimiento de cada uno de los correos electrónicos para que la estrategia de #[em email marketing] siga evolucionando.
         p.mt-4 El #[em email marketing] funciona mejor si los correos que se envían llegan al cliente en la fase del recorrido de compra en el que se encuentran; las estrategias de correo masivo no suelen funcionar. Lo importante es buscar el equilibrio en la cantidad de correos electrónicos que envías; de otro modo, corres el riesgo de molestar al cliente potencial.
         p.mt-4 Existen plataformas que permiten llegar a una mayor cantidad de clientes mediante contenido meditado y segmentado con plantillas predefinidas con el correo electrónico; este método es preferido para la comunicación de la marca, junto con el sitio web y el correo electrónico directo.
     
@@ -35,7 +35,7 @@
     .row
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
         figure.m-auto.col-7.col-md-12
-          img(src="@/assets/curso/tema5/2.svg")
+          img(src="@/assets/curso/tema5/2.svg" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p Es una acción o técnica de mercadeo directo que se apoya del envío de correos electrónicos de forma masiva para enviar un mensaje a una audiencia específica. Este envío de correos busca estimular las ventas o informar de novedades. Existen varias plataformas que prestan este servicio, entre las más populares están mailchimp y sendinblue.
         p.mt-4 En el siguiente video se puede explica el concepto de mailchimp:
@@ -45,7 +45,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema5/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema5/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.mb-0.text-white Mailchimp
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -56,23 +56,23 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h2#t_5_3 5.3. Planificación del #[em email marketing]
+      h2#t_5_3 5.3 Planificación del #[em email marketing]
     
     .row
       .col-lg-8.col-md-6.mb-4.mb-md-0(data-aos="fade-right" style="place-self:center;")
-        p Para crear una campaña de #[em email marketing], lo primero que se debe realizar en la segmentación de la base de datos, luego crear el contenido definiendo los objetivos de la campaña, para ello es fundamental tener conocimiento del público objetivo, después crear el contenido para los emails, ya sea con botones de llamados a la acción o simplemente de manera informativa, y por último determinar cuáles son los de la campaña, si el deseo es vender más,  conseguir seguidores o visitas a los diferente medios digitales de la organización.
+        p Para crear una campaña de #[em email marketing], lo primero que se debe realizar en la segmentación de la base de datos, luego crear el contenido definiendo los objetivos de la campaña, para ello es fundamental tener conocimiento del público objetivo, después crear el contenido para los #[em emails], ya sea con botones de llamados a la acción o simplemente de manera informativa, y por último determinar cuáles son los objetivos de la campaña, si el deseo es vender más,  conseguir seguidores o visitas a los diferente medios digitales de la organización.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-12
-          img(src="@/assets/curso/tema5/4.svg")
+          img(src="@/assets/curso/tema5/4.svg" alt="Imagen decorativa")
     
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Figura 4.
-      span Ciclo #[em Email marketing]
+      span Ciclo #[em email marketing]
     
     .col-xl-10.m-auto.mt-5(data-aos="zoom-in-up")
       figure
-        img(src="@/assets/curso/tema5/5.svg")
-      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Gadmin (2.022)
+        img(src="@/assets/curso/tema5/5.svg" alt="Figura que hace la descripción del ciclo completo de email marketing, esta es la manera de diseñar una campaña de email marketing atendiendo el ciclo: Inicia con la definición de los objetivos y las metas, pasa a la fijación de una estrategia, que luego se concreta en el target de la base de datos, posterior a esto viene la frecuencia y plan de envíos, pasa al llamado de atención con el diseño y el contenido, continua con la automatización y programación del envío y llega al primer punto de los objetivos y el análisis de resultados se da entre la frecuencia y plan de envíos y la definición de objetivos.")
+      figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Gadmin (2022)
 
 
   

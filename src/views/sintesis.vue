@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p(data-aos="fade-right") Para cualquier organización, empresa o pyme, es importante conocer los clientes, sus necesidades, sus gustos, reacciones frente a diferentes estímulos, entre otras cosas, por lo que es importante conocer y manejar el CRM, sus conceptos, tipos, con el fin de que el acercamiento con el cliente sea mayor. De igual manera es muy necesario involucrar todos estos conocimientos en el plan estratégico de la pyme y conjugarlo con el comercio electrónico, los contenidos digitales, indicadores y todo lo que permita lograr un desarrollo comercial exitoso para las Pyme’s.
+    p(data-aos="fade-right") Para cualquier organización, empresa o pyme, es importante conocer los clientes, sus necesidades, sus gustos, reacciones frente a diferentes estímulos, entre otras cosas, por lo que es importante conocer y manejar el CRM, sus conceptos, tipos, con el fin de que el acercamiento con el cliente sea mayor. De igual manera es muy necesario involucrar todos estos conocimientos en el plan estratégico de la pyme y conjugarlo con el comercio electrónico, los contenidos digitales, indicadores y todo lo que permita lograr un desarrollo comercial exitoso para las Pymes.
     p.mt-4.mb-5(data-aos="fade-left") Por lo anterior el presente componente formativo abordo todos estos aspectos en los temas que se resumen en el mapa conceptual que se expone a continuación:
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="Imagen que resumen de los temas abordados en el componente formativo y que son necesarios para el logro del resultado de aprendizaje como es: el plan estratégico den la pyme que contiene el comercio electrónico y el CRM y de otra parte anáñiticay metricas que contiene email marketing, medios sociales y contenido digital.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

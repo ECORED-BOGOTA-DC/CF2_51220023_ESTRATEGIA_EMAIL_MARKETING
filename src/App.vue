@@ -82,4 +82,7 @@ export default {
   .cont_responsive2
     left: 0 !important
     width: 100% !important
+@media screen and (max-width: 992px)
+  .banner-principal__descripcion p
+    color: #fff !important
 </style>
