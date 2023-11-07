@@ -25,7 +25,7 @@
       p(data-aos="fade-right") En el siguiente video, se puede apreciar el concepto de #[em email marketing] y los diferentes tipos de correos electrónicos de aplicación #[em marketing]:
       figure.mt-5(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/JDINiz_VzzI" title="Concepto de email marketing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
 

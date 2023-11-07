@@ -37,9 +37,9 @@
       h5 Figura 3.
       span Comunicación visual
     
-    .col-xl-6.col-lg-8.m-auto.mt-5.m-auto
+    .mt-4.m-auto
       figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema4/1.svg" alt="Figura que ejemplifica aspectos relacionados con la comunicación visual, encontrando letreros de advertencia y de señalización, gráficos estadísticos, fotografía de lugares, artes y acciones relacionadas con aparatos electrónicos (TV, PC).")
+        img(src="@/assets/curso/tema4/1.png" alt="Figura que ejemplifica aspectos relacionados con la comunicación visual, encontrando letreros de advertencia y de señalización, gráficos estadísticos, fotografía de lugares, artes y acciones relacionadas con aparatos electrónicos (TV, PC).")
     
     p.mt-5(data-aos="fade-left") En conclusión, la gestión en comunicación visual se define como la selección de elementos idóneos que pueden ser íconos, gráficos, textos, formas, entre otros, que logren impactar a la audiencia a través de imágenes y diseño.
 
@@ -52,7 +52,7 @@
       p(data-aos="fade-right") Los contenidos digitales son piezas de información fundamentales en el Inbound Marketing, se pueden construir a través de videos, #[em reels], imágenes, texto, #[em gif], mapas conceptuales, entre otros; el éxito del impacto en su creación dependerá de la creatividad, y se transformará en clientes, ventas y visitantes al negocio, a continuación, se profundiza sobre su aplicación y consideraciones:
       figure.mt-5(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/3bEHrJlkSzs" title="Concepto de contenido digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
 

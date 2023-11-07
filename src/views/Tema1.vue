@@ -11,7 +11,7 @@
       p(data-aos="fade-right") Antes de conocer el concepto de plan estratégico, es importante contextualizar sobre las razones de su existencia en las empresas ya sean pequeñas, medianas o grandes:
       figure.mt-5(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/HPhjhrpNTDc" title="El plan estratégico para pyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mt-5(data-aos="fade-right") Es importante comprender que en una pyme por pequeña que sea, se recomienda la aplicación de un plan estratégico que sea implementado sobre la gestión de las redes sociales y manejo de herramientas digitales como el #[em email marketing]. En la siguiente figura, se exponen unas recomendaciones a seguir a la hora de establecer el plan estratégico, teniendo en cuenta que cada empresa diseña su propio plan, con base a sus recursos, capacidades y alcance: 
 

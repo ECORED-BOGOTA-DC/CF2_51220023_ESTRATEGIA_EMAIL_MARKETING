@@ -18,9 +18,9 @@
       h5 Figura 5.
       span Analítica web
     
-    .col-xl-8.col-lg-10.m-auto.mt-5(data-aos="zoom-in-up")
+    .m-auto.mt-4(data-aos="zoom-in-up")
       figure
-        img(src="@/assets/curso/tema6/2.svg" alt="Figura que ejemplifica la analítica web a través de un proceso, el cual muestra su rendimiento a través de datos medibles, como el performance y balance, entre otros aspectos.")
+        img(src="@/assets/curso/tema6/2.png" alt="Figura que ejemplifica la analítica web a través de un proceso, el cual muestra su rendimiento a través de datos medibles, como el performance y balance, entre otros aspectos.")
       figcaption.fw-normal.mt-2(style="background-color:#E8E8E8;") #[strong Nota.] Pinterest (2022)
     
     .row.mt-5
@@ -39,7 +39,7 @@
       p(data-aos="fade-right") En el siguiente video se puede apreciar el concepto y aplicación de analítica:
       figure.mt-5(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/3X2J7xRDcnA" title="Concepto de analítica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     Separador
 
