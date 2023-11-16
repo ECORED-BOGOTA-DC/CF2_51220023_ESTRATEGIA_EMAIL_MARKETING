@@ -14,7 +14,7 @@
       .col-lg-8.col-md-6(data-aos="fade-left")
         p La mayoría de las empresas ya están presentes en internet, por lo que además del #[em marketing] móvil, otro reto será disponer de plataformas de comercio electrónico para sus productos y servicios. Las empresas que no lo hagan aún, si quieren estar a la altura de las últimas realidades tecnológicas, deben adaptarse a este tipo de venta.
         p.mt-4 Son innumerables las ventajas que este tipo de venta ofrece a las empresas, porque no solo supone un ahorro de costes, sino que aumenta considerablemente el número de ventas. Sumadas ambas ventajas suponen un incremento en el volumen de ingresos de las compañías, sin embargo, se deben regir por el marco legal en la ley de #[em habeas data] y los derechos de autor del contenido que se pueda generar para promocionar los productos o servicios.
-        p.mt-4 En el siguiente video, se explica el concepto y aplicación de la ley de #[em habeas data]:
+        p.mt-4 En el siguiente video, se explica el concepto y aplicación de la ley de #[em habeas data]
         .col-xl-12.m-auto.mt-4
           .p-4(data-aos="flip-up" style="background: linear-gradient(180deg, rgba(0,169,255,1) 0%, rgba(0,80,219,1) 100%);border-radius:10px;")
             .row.m-0
@@ -195,7 +195,7 @@
                 figure.text-center
                   img(src="@/assets/curso/tema3/17.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
               .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-                h4.mb-0.text-white Recomendaciones de aplicación del #[em.text-white habeas data]:
+                h4.mb-0.text-white Recomendaciones de aplicación del #[em.text-white habeas data]
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=3LuHTByY51w" target="_blank")
                   span Enlace web
