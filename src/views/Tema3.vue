@@ -195,7 +195,7 @@
                 figure.text-center
                   img(src="@/assets/curso/tema3/17.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
               .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-                h4.mb-0.text-white #[em.text-white Habeas Data]:
+                h4.mb-0.text-white Recomendaciones de aplicación del #[em.text-white habeas data]:
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=3LuHTByY51w" target="_blank")
                   span Enlace web
