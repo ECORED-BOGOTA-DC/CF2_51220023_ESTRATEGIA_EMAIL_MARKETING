@@ -288,6 +288,11 @@ export default {
     },
     {
       referencia:
+        'IFICORP. (2022). <em>Qué es un CRM software y para qué sirve | CRM significado y aplicaciones</em>.',
+      link: '',
+    },
+    {
+      referencia:
         'JuanCMejia. (2020). <em>Indicadores de redes sociales: principales KPIS y métricas de social media</em>.',
       link:
         'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
