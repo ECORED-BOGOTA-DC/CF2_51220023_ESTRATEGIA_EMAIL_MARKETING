@@ -49,7 +49,7 @@
       h2#t_4_1 4.1 Concepto de contenido digital
     
     .cont_4_1.pt-5
-      p(data-aos="fade-right") Los contenidos digitales son piezas de información fundamentales en el Inbound Marketing, se pueden construir a través de videos, #[em reels], imágenes, texto, #[em gif], mapas conceptuales, entre otros; el éxito del impacto en su creación dependerá de la creatividad, y se transformará en clientes, ventas y visitantes al negocio, a continuación, se profundiza sobre su aplicación y consideraciones:
+      p(data-aos="fade-right") Los contenidos digitales son piezas de información fundamentales en el #[em Inbound Marketing], se pueden construir a través de videos, #[em reels], imágenes, texto, #[em gif], mapas conceptuales, entre otros; el éxito del impacto en su creación dependerá de la creatividad, y se transformará en clientes, ventas y visitantes al negocio, a continuación, se profundiza sobre su aplicación y consideraciones:
       figure.mt-5(data-aos="fade-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/3bEHrJlkSzs" title="Concepto de contenido digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -72,7 +72,7 @@
             p Es una página web diseñada como destino o “aterrizaje” que permite convertir visitantes en #[em leads] o clientes finales. Su funcionamiento es sencillo, al ofrecer algo que llame la atención del usuario, estará más dispuesto a dejar información a través de algún formulario.
             figure.mt-3
               img(src="@/assets/curso/tema4/4.png" alt="Imagen decorativa")
-          .row(titulo="Tik Tok")
+          .row(titulo="TikTok")
             p Es una red social propiedad de la empresa ByteDance (China). Es la red social por excelencia para generar y compartir vídeos cortos, que, durante esa cantidad minúscula de segundos, dan el mensaje concreto de lo que se quiere ofrecer o comunicar.
             figure.mt-3
               img(src="@/assets/curso/tema4/5.png" alt="Imagen decorativa")

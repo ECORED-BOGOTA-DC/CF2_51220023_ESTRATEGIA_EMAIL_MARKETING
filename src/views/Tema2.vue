@@ -20,8 +20,8 @@
             h4.mb-0.text-white Customer Relationship Management (CRM)
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=G5SZHCsYEcU" target="_blank")
-              span Enlace web
-              i.fas.fa-link
+              span Video
+              i.fas.fa-video
     
     .row.mt-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -38,8 +38,8 @@
                 h4.mb-0.text-white Beneficios del CRM
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PF_yA02FGIM" target="_blank")
-                  span Enlace web
-                  i.fas.fa-link
+                  span Video
+                  i.fas.fa-video
       .col-lg-4(data-aos="fade-left")
         figure.col-lg-12.col-md-6.col-7.m-auto
           img(src="@/assets/curso/tema2/3.svg" alt="Imagen decorativa")

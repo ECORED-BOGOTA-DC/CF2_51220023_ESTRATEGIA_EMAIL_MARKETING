@@ -22,11 +22,11 @@
                 figure.text-center
                   img(src="@/assets/curso/tema3/2.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
               .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-                h4.mb-0.text-white Ley estatutaria 1581 de 2012
+                h4.mb-0.text-white Ley estatutaria 1581 de 2012: disposiciones generales para la protección de datos personales
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=U8OGCJaKORY" target="_blank")
-                  span Enlace web
-                  i.fas.fa-link
+                  span Video
+                  i.fas.fa-video
     
     Separador
 
@@ -132,13 +132,13 @@
           figure.col-lg-12.col-md-7.col-8.m-auto
             img(src="@/assets/curso/tema3/13.png" alt="Imagen decorativa")
           h5.mt-3 B2B
-          p.mt-3.mb-0 El término B2B (Business to Business) es un acrónimo con el que nos referimos a aquellos modelos de negocio en los que las transacciones de bienes, o la prestación de servicios se producen entre dos empresas.
+          p.mt-3.mb-0 El término B2B (#[em Business to Business]) es un acrónimo con el que nos referimos a aquellos modelos de negocio en los que las transacciones de bienes, o la prestación de servicios se producen entre dos empresas.
       .col-lg.mb-4.mb-lg-0(data-aos="fade-left")
         .p-4.h-100.p-lg-5(style="background-color:#B2E5FF;")
           figure.col-lg-12.col-md-7.col-8.m-auto
             img(src="@/assets/curso/tema3/14.png" alt="Imagen decorativa")
           h5.mt-3 B2C
-          p.mt-3.mb-0 Business to Consumer, o relaciones de empresas con clientes, es un término normalmente utilizado para las relaciones establecidas en internet entre diferentes empresas, proveedores, distribuidores, #[em partners], y, en definitiva, para todas aquellas relaciones profesionales entre empresas.
+          p.mt-3.mb-0 #[em Business to Consumer], o relaciones de empresas con clientes, es un término normalmente utilizado para las relaciones establecidas en internet entre diferentes empresas, proveedores, distribuidores, #[em partners], y, en definitiva, para todas aquellas relaciones profesionales entre empresas.
     
     Separador
 
@@ -146,10 +146,10 @@
       h2#t_3_3 3.3 Marco legal del comercio electrónico
     
     .row
-      .col-lg-8.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
-        p En la actualidad la medición continua de variables es cada vez más común. Cada instante se genera una gran cantidad de datos que son convertidos en información. El acceso a esta información permite a los dirigentes crear campañas de mercadeo en medios sociales logrando segmentar el público objetivo, no obstante, el manejo de grandes volúmenes de información trae consigo un alto grado de responsabilidad, debido a que la información no es propiedad de la empresa que gestiona los datos, sino de la persona directamente implicada, y también, porque la información mal utilizada, puede ser robada, borrada o alterada, los que afectaría su disponibilidad, veracidad y fidelidad, poniendo en riesgo a los propietarios de esa información.
+      .col-lg-8.mb-4.mb-md-0(data-aos="fade-right")
+        p En la actualidad la medición continua de variables es cada vez más común. Cada instante se genera una gran cantidad de datos que son convertidos en información. El acceso a esta información permite a los dirigentes crear campañas de mercadeo en medios sociales, logrando segmentar el público objetivo, no obstante, el manejo de grandes volúmenes de información trae consigo un alto grado de responsabilidad, debido a que la información no es propiedad de la empresa que gestiona los datos, sino de la persona directamente implicada, y también, porque la información mal utilizada, puede ser robada, borrada o alterada, los que afectaría su disponibilidad, veracidad y fidelidad, poniendo en riesgo a los propietarios de esa información.
         p.mt-4 El marco jurídico aplicable en Colombia para el aprovechamiento y recolección de datos está regido por:
-      .col-lg-4.col-md-6(data-aos="fade-left")
+      .col-lg-4(data-aos="fade-left")
         figure.m-auto.col-7.col-md-7.col-lg-12
           img(src="@/assets/curso/tema3/15.png" alt="Imagen decorativa")
     
@@ -170,7 +170,7 @@
               td.p-4 Mediante el cual se establece el derecho que tienen las personas a conocer, actualizar y ratificar la información personal.
             tr
               td.p-4 Ley 1266 de 2008.
-              td.p-4 Por medio de la cual se dictan las disposiciones generales de habeas data.
+              td.p-4 Por medio de la cual se dictan las disposiciones generales de #[em habeas data].
             tr
               td.p-4 Ley 1273 de 2009.
               td.p-4 El cual modifica el código penal y crea como bien jurídico tutelado la protección de la información y de los datos.
@@ -198,8 +198,8 @@
                 h4.mb-0.text-white Recomendaciones de aplicación del #[em.text-white habeas data]
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=3LuHTByY51w" target="_blank")
-                  span Enlace web
-                  i.fas.fa-link
+                  span Video
+                  i.fas.fa-video
         p.mt-5 Es importante tener en cuenta que todas las obras están protegidas desde que se crean, no obstante, se debe contar con el registro por la Dirección Nacional de Derechos de Autor, entidad competente que otorga dicho registro y vela por los derechos del creador en el momento que pueda ocurrir alguna controversia.
         p.mt-4 A continuación, se explican los derechos de autor:
         .col-xl-12.m-auto.mt-4
@@ -212,8 +212,8 @@
                 h4.mb-0.text-white Derechos de autor
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=uKZZxlT4F5M" target="_blank")
-                  span Enlace web
-                  i.fas.fa-link
+                  span Video
+                  i.fas.fa-video
     
     p.mt-5(data-aos="fade-right") Este trámite se puede realizar de manera virtual, directamente en la página web de la entidad (#[a(href="https://www.registroenlinea.gov.co/portal.htm" target="_blank" style="word-break:break-all;") https://www.registroenlinea.gov.co/portal.htm]), o de forma presencial en la dirección Calle 28 # 13 A 15 Piso 17 de la ciudad de Bogotá. El trámite es gratuito, sencillo y seguro de realizar, no requiere intermediarios y tiene una duración de 30 días hábiles para obtener respuesta de acuerdo al Decreto 491 de 2020.
     p.mt-4(data-aos="fade-left") En la siguiente tabla, se relacionan las direcciones electrónicas donde se pueden registrar las obras y/o formulario de registro:

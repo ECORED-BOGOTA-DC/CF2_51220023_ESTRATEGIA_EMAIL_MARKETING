@@ -60,7 +60,7 @@
     
     .row
       .col-lg-8.col-md-6.mb-4.mb-md-0(data-aos="fade-right" style="place-self:center;")
-        p Para crear una campaña de #[em email marketing], lo primero que se debe realizar en la segmentación de la base de datos, luego crear el contenido definiendo los objetivos de la campaña, para ello es fundamental tener conocimiento del público objetivo, después crear el contenido para los #[em emails], ya sea con botones de llamados a la acción o simplemente de manera informativa, y por último determinar cuáles son los objetivos de la campaña, si el deseo es vender más,  conseguir seguidores o visitas a los diferente medios digitales de la organización.
+        p Para crear una campaña de #[em email marketing], lo primero que se debe realizar en la segmentación de la base de datos, luego crear el contenido definiendo los objetivos de la campaña, para ello es fundamental tener conocimiento del público objetivo, después crear el contenido para los #[em emails], ya sea con botones de llamados a la acción o simplemente de manera informativa, y por último determinar cuáles son los objetivos de la campaña, si el deseo es vender más,  conseguir seguidores o visitas a los diferentes medios digitales de la organización.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-7.col-md-12
           img(src="@/assets/curso/tema5/4.svg" alt="Imagen decorativa")

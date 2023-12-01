@@ -46,7 +46,7 @@
       div(style="width:40px;height:10px;background-color:#0050DB;border-radius:60px;position:absolute;bottom:-3px;right:30px;")
       h4.mb-0.pe-4.ps-3 Etapas del plan estratégico
     
-    p(data-aos="fade-left") El plan estratégico está compuesto por la planificación, organización, dirección y control, y éstos están organizados en 2 fases:
+    p(data-aos="fade-left") El plan estratégico está compuesto por la planificación, organización, dirección y control, y estos están organizados en 2 fases:
 
     .row.mt-5
       .col-lg.mb-4.mb-lg-0(data-aos="fade-right" @mouseover="mostrarIndicador = false")

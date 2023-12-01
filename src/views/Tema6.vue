@@ -80,7 +80,7 @@
           tbody
             tr
               td.p-4 CTR
-              td.p-4 Click Through Rate
+              td.p-4 #[em Click Through Rate]
               td.p-4 (Número de clics en los últimos 28 días / total impresiones en ese periodo) x 100
             tr
               td.p-4 %CNV
@@ -88,15 +88,15 @@
               td.p-4 (Número de conversión en el sitio web logradas por visitantes de redes sociales en los últimos 28 días / total visitantes al sitio web desde redes sociales en ese periodo) x100
             tr
               td.p-4 CLP
-              td.p-4 Cost per Lead
+              td.p-4 #[em Cost per Lead]
               td.p-4 (Costo de la campaña en redes sociales / total de clientes potenciales logrados por la campaña de redes sociales en ese periodo) x 100
             tr
               td.p-4 CPA
-              td.p-4 Cost per Acquisition
+              td.p-4 #[em Cost per Acquisition]
               td.p-4 (Costo de la campaña en redes sociales / total de compradores logrados por la campaña de redes sociales en ese periodo) x 100
             tr
               td.p-4 ROI
-              td.p-4 Return Of Investment
+              td.p-4 #[em Return Of Investment]
               td.p-4 ((Beneficios de la campaña en redes sociales - Costo de la campaña en redes sociales) / Costo de la campaña en redes sociales) x 100
     
     .row.mt-5
@@ -206,14 +206,14 @@
           .row
             .col-md-6.col-lg-8.mb-4.mb-md-0
               p Esta plataforma es fundamental en el momento de crear cualquier campaña publicitaria. Con la adquisición de Instagram y WhatsApp por medio del dueño y creador de Facebook, se han ido actualizando diversas funciones que hacen a esta plataforma muy apetecida por los empresarios.
-              p.mt-4 Al crear un #[em Fan Page] en Facebook, nos da la opción de integrar un botón de llamado a la acción y este botón puede configurarse para que con tan solo un Clic, nos lleve a la App de WhatsApp y generar una conversación más personalizada empresario-cliente, pero si lugar a dudas, lo más importante es la facilidad de crear una campaña publicitaria segmentado los clientes por edad, sexo, gustos y hasta nivel de escolaridad, con la opción del centro de anuncios.
+              p.mt-4 Al crear un #[em Fan Page] en Facebook, nos da la opción de integrar un botón de llamado a la acción y este botón puede configurarse para que con tan solo un Clic, nos lleve a la App de WhatsApp y generar una conversación más personalizada empresario-cliente, pero si lugar a dudas, lo más importante es la facilidad de crear una campaña publicitaria segmentando los clientes por edad, sexo, gustos y hasta nivel de escolaridad, con la opción del centro de anuncios.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema6/21.png' alt="Imagen decorativa")
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center
         figure
-          img(src="@/assets/curso/tema6/19.svg" alt="Imagen decorativa")
+          img(src="@/assets/curso/tema6/19.svg" alt="magen que representa al SEM, lo cual incluye aspectos como: buscadores, marketing, grupos target, contenidos, enlaces y ranking.”")
   
 
 

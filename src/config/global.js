@@ -288,12 +288,6 @@ export default {
     },
     {
       referencia:
-        'IFICORP. (2022). <em>Qué es un CRM software y para qué sirve | CRM significado y aplicaciones.</em>',
-      link:
-        'http://www.ificorp.net/web/index.php/impuestos/52-clientes-cartera/790-que-es-un-crm-software-y-para-que-sirve-crm-significado-y-aplicaciones',
-    },
-    {
-      referencia:
         'JuanCMejia. (2020). <em>Indicadores de redes sociales: principales KPIS y métricas de social media</em>.',
       link:
         'https://www.juancmejia.com/redes-sociales/kpis-de-redes-sociales-guia-con-principales-metricas-e-indicadores-de-social-media/',
@@ -331,12 +325,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -347,7 +341,7 @@ export default {
       autores: [
         {
           nombre: 'Margarita Rosa Triana Sánchez',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro:
             'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
         },
@@ -369,12 +363,12 @@ export default {
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Corrector de estilo',
+          cargo: 'Corrector de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Metodología para la formación virtual',
+          cargo: 'Metodología para la Formación Virtual',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -385,7 +379,7 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseño web',
+          cargo: 'Diseño Web',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -397,19 +391,19 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -420,19 +414,19 @@ export default {
       autores: [
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
-          cargo: 'Validación de contenidos educativos',
+          cargo: 'Validación de Contenidos Educativos',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de contenidos educativos y vinculación al LMS',
+          cargo: 'Validación de Contenidos Educativos y vinculación al LMS',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
